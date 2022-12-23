@@ -24,6 +24,8 @@ After the commands are executed, the App will be locally hosted and open in a de
 
 Here is a link to my uploaded youtube video, demonstration the functionality of my application. 
 
+Additionally, the link to my deployed static website.
+
 
 ## License
 MIT License
