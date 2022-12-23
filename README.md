@@ -22,7 +22,9 @@ After the commands are executed, the App will be locally hosted and open in a de
     
 ## Demo
 
-Here is a link to my uploaded youtube video, demonstration the functionality of my application. 
+Here is a link to my uploaded Loom video, demonstration the functionality of my application (Quick Note, loom does not capture off screen prompts - so they are stated within the video, but you must test the funcationality yourself to see "error, invalid input, and or insufficient funds etc.")
+
+https://www.loom.com/share/f1f4b118cc4e47d3a222e6fade2a1620
 
 Additionally, the link to my deployed static website.
 
