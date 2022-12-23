@@ -1,0 +1,9 @@
+.navbar-link.active {
+  color: #582473 !important;
+  font-weight: 700;
+}
+
+.navbar-link:hover {
+  opacity: 0.8;
+  color: rgb(138, 65, 247) !important;
+}
