@@ -26,6 +26,8 @@ Here is a link to my uploaded youtube video, demonstration the functionality of 
 
 Additionally, the link to my deployed static website.
 
+http://brennameyerbankingapp.s3-website-us-west-1.amazonaws.com
+
 
 ## License
 MIT License
